@@ -27,5 +27,7 @@ After loading the data into a Pandas DataFrame, I created the following plots to
 # Correlation Insights
 
 Highest Correlations: total_spend, total_impressions, total_clicks, and total_value
+
 Lowest Correlation: ROMI
+
 Best Correlation for Total Value: total_spend
